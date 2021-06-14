@@ -30,9 +30,10 @@ twitter_username: prakyath_k
 github_username:  Prakyathkantahraju
 
 # Build settings
-theme:  jekyll-theme-hydure
+remote_theme: zivong/jekyll-theme-hydure
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.

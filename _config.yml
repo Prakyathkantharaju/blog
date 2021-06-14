@@ -30,7 +30,7 @@ twitter_username: prakyath_k
 github_username:  Prakyathkantahraju
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 

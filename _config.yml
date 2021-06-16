@@ -34,6 +34,10 @@ remote_theme: zivong/jekyll-theme-hydure
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-relative-links
+
+
+    # relative_permalinks: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.

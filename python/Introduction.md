@@ -1,3 +1,10 @@
+---
+layout: page
+date: 2021-06-16
+title: "Python Introduction"
+---
+
+
 # Python course
 ## Overview
 ### python

@@ -1,3 +1,9 @@
+---
+layout: page
+date: 2021-06-16
+title: "Installation and setup"
+---
+
 # Contents
 1. [[Learning basics]]
 	- Installation and setup.

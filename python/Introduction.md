@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Python Introduction"
+permalink: python/introduction
 ---
 
 

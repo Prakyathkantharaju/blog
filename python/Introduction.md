@@ -13,7 +13,7 @@ be updating the permalink.
 ### python
 1. Learning basics
 	1. Installation and setup 
-		- [link](python/note1)
+		- [link](/note1)
 		- Install
 		- Basic syntax
 	3. Introduction to variable and types.

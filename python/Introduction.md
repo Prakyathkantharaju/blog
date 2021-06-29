@@ -12,15 +12,24 @@ be updating the permalink.
 
 ### python
 1. Learning basics
-	1. Installation and setup
-	2. Introduction to variable.
-	3. Conditional statement.
-	4. Loops.
-	5. Functions.
-	6. classes.
-	7. libraries.
-	8. arrays.
-	9. Linear algebra and matrix calculations.
+	1. Installation and setup 
+		- [link](python/note1)
+		- Install
+		- Basic syntax
+	3. Introduction to variable and types.
+		- variables
+		- strings
+		- tuples
+		- indexing
+		- list
+		- list_comprehension
+	4. Conditional statement.
+	5. Loops.
+	6. Functions.
+	7. classes.
+	8. libraries.
+	9. arrays.
+	10. Linear algebra and matrix calculations.
 2. robot control.
 	1. Creating the rpi gpio port configuration.
 	2. Using and controlling rpi and pico using python.

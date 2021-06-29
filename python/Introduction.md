@@ -1,14 +1,17 @@
 ---
 layout: page
-title: "Python Introduction"
-permalink: python/introduction
+title: "Python Overview"
+permalink: python/overview
 ---
 
 
-# Python course
 ## Overview
+This is the overview of the python notes. As I prepare the the notes I will
+be updating the permalink.
+
+
 ### python
-1. [[Learning basics]]
+1. Learning basics
 	1. Installation and setup
 	2. Introduction to variable.
 	3. Conditional statement.

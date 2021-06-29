@@ -61,8 +61,11 @@ for i in Y:
     print(i)
 ```
 - print:As any other programming language python offers a method to output the values to the command prompt or terminal
-- X: X is the variable. It is storing the value 0 and the type of the variable is int.
-- Y: Y is the list. List can be considered as a less prowerful array.
+- X is the int variable. 
+- Y is the list. List can be considered as a less collection of the primitive types such string, numbers (int or float) or even other list.
+- Z is a float variable.
+- *for* is a looping statement, the variable next to for is the itertation element and the "scope" (line for loop is applied) is defined by the tab or space indentation. *in* says that interation element is from the list X. 
+ 
 
 
 

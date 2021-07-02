@@ -17,7 +17,7 @@ be updating the permalink.
 		- Install
 		- Basic syntax
 	3. Introduction to variable and types.
-		- [link](/python/note2)
+		- [link](/blog/python/note2)
 		- variables
 		- strings
 		- tuples

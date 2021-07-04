@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Introduction to variable and types"
-permalink: python/note2
+permalink: blog/python/note2
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Install and setup"
-permalink: python/note1
+permalink: blog/python/note1
 ---
 
 
